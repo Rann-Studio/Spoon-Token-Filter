@@ -1,4 +1,4 @@
-##SPOON TOKEN FILTER
+## SPOON TOKEN FILTER
 
 <a>Tools Ini Digunakan Untuk Merapikan Dan Menghapus</a><br />
 <a>Token Yang Sama Atau Ganda Di Dalam 1 File.</a><br /><br />
